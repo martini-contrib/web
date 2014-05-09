@@ -17,7 +17,7 @@ way as in hoisie's `web.go` but not the others.
 package main
 
 import (
-   "github.com/codegangsta/martini"
+   "github.com/go-martini/martini"
    "github.com/codegangsta/martini-contrib/web"
  )
 
