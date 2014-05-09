@@ -17,8 +17,8 @@ way as in hoisie's `web.go` but not the others.
 package main
 
 import (
-   "github.com/codegangsta/martini"
-   "github.com/codegangsta/martini-contrib/web"
+   "github.com/go-martini/martini"
+   "github.com/martini-contrib/web"
  )
 
 func main() {
