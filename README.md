@@ -7,8 +7,8 @@
 [API Reference](http://godoc.org/github.com/codegangsta/martini-contrib/web)
 
 ## Description
-`web.Context` provides a [web.go][] compitable layer for reusing the code written with
-hoisie's `web.go` framework. Here compitable means we can use `web.Context` the same 
+`web.Context` provides a [web.go][] compatible layer for reusing the code written with
+hoisie's `web.go` framework. Here compatible means we can use `web.Context` the same 
 way as in hoisie's `web.go` but not the others.
 
 ## Usage
